@@ -1,5 +1,5 @@
 ---
-title: "Start job searching"
+title: "Start Job Searching"
 layout: post
 ---
 
