@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Yaoxin Li (Tom)"
+author: "Yaoxin Li (Tom)"
+description: "Aspiring Software Engineer with a passion for leveraging my technical, collaboration and design skills to drive deliverables and make an impact. Experienced with various technologies building high performance systems including PyTorch, AWS and more. "
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
