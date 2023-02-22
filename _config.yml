@@ -1,6 +1,6 @@
 title: "Yaoxin Li (Tom)"
 author: "Yaoxin Li (Tom)"
-description: "Aspiring Software Engineer with a passion for leveraging my technical, collaboration and design skills to drive deliverables and make an impact. Experienced with various technologies building high performance systems including PyTorch, AWS and more. "
+description: "This is a personal website for Yaoxin Li (Tom), Welcome!"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Yaoxin_LI_CV_v23.pdf", title: Resume/CV}
+  - {file: "posts.md", title: Posts}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tomli980411@gmail.com"}
