@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Posts"
 ---
 
 {% if site.show_excerpts %}
